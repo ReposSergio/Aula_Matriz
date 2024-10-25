@@ -1,4 +1,4 @@
-**Se Realiza nuevamente la prueba con un front y de mejor manera**
+**Se Realiza nuevamente la prueba con un front para mostrar la funsionalidad completa del programa, se realiza el crud completo interactuando con el backend y realizando modificaciones a la base de datos en postgresql**
 
 __Ejecutar el codigo correctamente__
 
