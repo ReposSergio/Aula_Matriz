@@ -2,9 +2,15 @@
 
 __Ejecutar el codigo correctamente__
 
-__1. Debe tener una base de datos creada en pgadmin he instalado postgres sql__
+__1. Debe tener una base de datos creada en pgadmin he instalado postgresql Con estas especificaciones__|
 
-__2.Para ejecutar el front despues de descargado ejecutar en consola npm intall__
+-'NAME': 'aula_matriz',
+        'USER': 'postgres',  # Cambia por tu usuario
+        'PASSWORD': 'Datecsa2018',  # Cambia por tu contraseña
+        'HOST': 'localhost',
+        'PORT': '5432',
+
+__2.Para ejecutar el front despues de Clonado el repositorio ejecutar en consola npm intall para instalar las dependencias__
 
 __3.Para Ejecutar el backend activar el hambiente virtual virtualenv venv revisar que este todas las dependencias__
 
