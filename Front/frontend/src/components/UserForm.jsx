@@ -32,6 +32,7 @@ const UserForm = ({ user, onSuccess }) => {
       <input name="last_name" value={formData.last_name} onChange={handleChange} placeholder="Last Name" />
       {!user && <input name="password" value={formData.password} onChange={handleChange} placeholder="Password" type="password" />}
       <button type="submit">Submit</button>
+      <a href="/">Refresh</a>
     </form>
   );
 };
